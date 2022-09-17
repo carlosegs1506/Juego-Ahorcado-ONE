@@ -453,6 +453,12 @@ form{
     .btns_menu {
         padding: 30% 20% 0 20%;
     }
+    .btns_menu > .btn:first-child {
+        padding: 10px;
+    }
+    .btns_menu > .btn:last-child {
+        padding: 10px;
+    }
     #texto {
         width: 400px;
     }
