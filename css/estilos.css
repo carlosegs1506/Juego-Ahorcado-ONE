@@ -508,10 +508,12 @@ form{
     .btns_menu > .btn:first-child {
         width: 200px;
         height: 70px;
+        padding: 10px;
     }
     .btns_menu > .btn:last-child {
         width: 150px;
         height: 50px;
+        padding: 10px;
     }
     .juego {
         padding-top: 80px;
