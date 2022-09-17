@@ -455,11 +455,11 @@ form{
     }
     .btns_menu > .btn:first-child {
         padding: 10px;
-        margin: 10px;
+        margin: 20px;
     }
     .btns_menu > .btn:last-child {
         padding: 10px;
-        margin: 10px;
+        margin: 20px;
     }
     #texto {
         width: 400px;
